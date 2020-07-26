@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.875462a6.chunk.css",
+    "main.js": "/static/js/main.8563686d.chunk.js",
+    "main.js.map": "/static/js/main.8563686d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5be375a3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5be375a3.js.map",
+    "static/js/2.c4d09a0c.chunk.js": "/static/js/2.c4d09a0c.chunk.js",
+    "static/js/2.c4d09a0c.chunk.js.map": "/static/js/2.c4d09a0c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e2dc3f91f4e2058c516bedb7c6dd5f65.js": "/precache-manifest.e2dc3f91f4e2058c516bedb7c6dd5f65.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.875462a6.chunk.css.map": "/static/css/main.875462a6.chunk.css.map",
+    "static/js/2.c4d09a0c.chunk.js.LICENSE.txt": "/static/js/2.c4d09a0c.chunk.js.LICENSE.txt",
+    "static/media/HBOkits.svg": "/static/media/HBOkits.4d63f143.svg",
+    "static/media/STOequipmentProtectiveLiquids.svg": "/static/media/STOequipmentProtectiveLiquids.92339785.svg",
+    "static/media/backgroundImage.jpg": "/static/media/backgroundImage.f3c6c23d.jpg",
+    "static/media/basket.svg": "/static/media/basket.06641d58.svg",
+    "static/media/compare.svg": "/static/media/compare.c242dfe6.svg",
+    "static/media/cylindersFittingsFasteners.svg": "/static/media/cylindersFittingsFasteners.47d224d6.svg",
+    "static/media/electronicsGasAndGasolineValves.svg": "/static/media/electronicsGasAndGasolineValves.2f1d714b.svg",
+    "static/media/filters.svg": "/static/media/filters.65719e84.svg",
+    "static/media/fullStar.svg": "/static/media/fullStar.1e81f3d6.svg",
+    "static/media/gasDispensersMixersAndAntiSlap.svg": "/static/media/gasDispensersMixersAndAntiSlap.95817065.svg",
+    "static/media/gasReducersAndComponents.svg": "/static/media/gasReducersAndComponents.c3d6c9b3.svg",
+    "static/media/injectionSystems.svg": "/static/media/injectionSystems.4da9b6eb.svg",
+    "static/media/logo.svg": "/static/media/logo.5919a0d0.svg",
+    "static/media/nozzles.svg": "/static/media/nozzles.ee91b747.svg",
+    "static/media/tubesHosesAccessories.svg": "/static/media/tubesHosesAccessories.ecc7e99e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5be375a3.js",
+    "static/js/2.c4d09a0c.chunk.js",
+    "static/css/main.875462a6.chunk.css",
+    "static/js/main.8563686d.chunk.js"
+  ]
+}
